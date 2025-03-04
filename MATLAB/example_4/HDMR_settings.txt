@@ -1,0 +1,42 @@
+|-------------------------------------------------------------------------|
+|                                                                         |
+|           HHH     HHH   DDDDDDDDD    MMM     MMM   RRRRRRRR             |
+|           HHH     HHH   DDDDDDDDDD   MMM     MMM   RRRRRRRRR            |
+|           HHH     HHH   DDD    DDD   MMMM   MMMM   RRR    RRR           |
+|           HHH     HHH   DDD    DDD   MMMMM MMMMM   RRR    RRR           |
+|           HHHHHHHHHHH   DDD    DDD   MMMMMMMMMMM   RRRRRRRRR            |
+|           HHHHHHHHHHH   DDD    DDD   MMMMMMMMMMM   RRRRRRRR             |
+|           HHH     HHH   DDD    DDD   MMM     MMM   RRRRRRRRR            |
+|           HHH     HHH   DDD    DDD   MMM     MMM   RRR   RRR            |
+|           HHH     HHH   DDDDDDDDDD   MMM     MMM   RRR    RRR           |
+|           HHH     HHH   DDDDDDDDD    MMM     MMM   RRR     RRR          |
+|                                                                         |
+|  SSSSSSS EEEEEEEE TTTTTTTT TTTTTTTT IIIIIIII NN    NN  GGGGGG   SSSSSSS |
+| SSSSSSS  EEEEEEEE TTTTTTTT TTTTTTTT  IIIIII  NNN   NN GGGGGG   SSSSSSS  |
+| SS       EE       TT TT TT TT TT TT    II    NNNN  NN GG       SS       |
+| SSSSSS   EEEEE    T  TT  T T  TT  T    II    NN NN NN GG  GGGG SSSSSS   |
+| SSSSSSS  EEEEE       TT       TT       II    NN NN NN GG   GGG SSSSSSS  |
+|       SS EE          TT       TT       II    NN  NNNN GG    GG       SS |
+|  SSSSSSS EEEEEEEE    TT       TT     IIIIII  NN   NNN GGGGGGGG  SSSSSSS |
+| SSSSSSS  EEEEEEEE    TT       TT    IIIIIIII NN    NN  GGGGGG  SSSSSSS  |
+|                                                                         |
+|-------------------------------------------------------------------------|
+
+          |===================================|
+          |  field of options      value      |
+          |-----------------------------------|
+          |    graphics     	        1     |
+          |    maxorder     	        3     |
+          |    maxiter      	      100     |
+          |    bf1          	        1     |
+          |    bf2          	        0     |
+          |    bf3          	        0     |
+          |    method       	        1     |
+          |    m            	        4     |
+          |    K            	      100     |
+          |    R            	      300     |
+          |    alfa         	 0.990000     |
+          |    lambda       	 1.00e-01     |
+          |    vartol       	 1.00e-03     |
+          |===================================|
+
